@@ -1,3 +1,5 @@
-Zexercices_precedents/
+﻿Zexercices_precedents/
 # ! -> va prendre en compte un element spécificique d'un dossier ignoré (exple !Zexercices_precedents/.htacces)
 # fichier Readme.md lu par Github
+nbproject/
+Zexercices_precedents/
